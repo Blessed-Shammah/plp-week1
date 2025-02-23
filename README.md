@@ -4,7 +4,7 @@
 
 ## Part 1: Introduction to Software Engineering
 
-### Explain what software engineering is and discuss its importance in the technology industry
+### 1. Explain what software engineering is and discuss its importance in the technology industry
 Software engineering is a field of computer science that focuses on designing, developing, testing, and maintaining software systems.
 
 - **Reliability**: Ensures software operates correctly and consistently, particularly in critical fields such as healthcare and finance.
@@ -12,13 +12,13 @@ Software engineering is a field of computer science that focuses on designing, d
 - **Scalability and Flexibility**: Enables systems to accommodate increased loads without performance degradation.
 - **Security**: Incorporates best practices like authentication, authorization, and encryption to protect user data.
 
-### Identify and describe at least three key milestones in the evolution of software engineering
+### 2. Identify and describe at least three key milestones in the evolution of software engineering
 
 1. **The Development of Structured Programming** - Introduced the concept of modular programming, improving code readability and maintainability.
 2. **The Advent of Object-Oriented Programming (OOP)** - Revolutionized software design by introducing reusable and scalable code structures.
 3. **The Rise of Agile Methodologies** - Shifted software development towards iterative processes with continuous feedback and adaptability.
 
-### List and briefly explain the phases of the Software Development Life Cycle
+### 3. List and briefly explain the phases of the Software Development Life Cycle
 
 1. **Planning** - Define project scope and objectives.
 2. **Requirement Analysis** - Gather and document user needs.
@@ -28,7 +28,7 @@ Software engineering is a field of computer science that focuses on designing, d
 6. **Deployment** - Release the software product to the users.
 7. **Continous Maintenance** - Maintain the existing software product by continuous integration and deployment.
 
-### Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+### 4. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 #### Waterfall Methodology:
 - Follows a sequential, step-by-step process.
@@ -46,7 +46,7 @@ Software engineering is a field of computer science that focuses on designing, d
 
 **Example Use Case:** Ideal for startups or software products with evolving requirements.
 
-### Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+### 5. Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 #### Software Developer:
 - Write, test, and maintain software applications.
@@ -66,7 +66,7 @@ Software engineering is a field of computer science that focuses on designing, d
 - Track project milestones and ensure deadlines are met.
 - Deliver final software product and oversee maintenance.
 
-### Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+### 6. Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 #### Integrated Development Environments (IDEs):
 Software tools that provide a coding environment with features like debugging, code completion, and syntax highlighting.
@@ -88,7 +88,7 @@ Tools that manage source code changes, allowing collaboration and version tracki
 - Keeps a record of changes for future reference.
 - Facilitates branching and merging of code for parallel development.
 
-### What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+### 7. What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 - **Rapid Technological Changes:** Continuous learning and staying updated with trends.
 - **Time Constraints:** Using Agile methodologies to manage workloads effectively.
@@ -97,7 +97,7 @@ Tools that manage source code changes, allowing collaboration and version tracki
 - **Software Security:** Implementing strong security protocols and regular audits.
 - **Usability Issues:** Prioritizing user experience (UX) design and feedback loops.
 
-### Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+### 8. Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
 1. **Unit Testing** - Tests individual components to ensure they work as expected.
 2. **Integration Testing** - Verifies interactions between different modules or services.
@@ -108,7 +108,7 @@ Tools that manage source code changes, allowing collaboration and version tracki
 
 ## Part 2: Introduction to AI and Prompt Engineering
 
-### Define prompt engineering and discuss its importance in interacting with AI models.
+### 1. Define prompt engineering and discuss its importance in interacting with AI models.
 Prompt engineering is the practice of crafting effective inputs (prompts) to guide AI models in generating relevant and accurate responses.
 
 **Importance:**
@@ -116,7 +116,7 @@ Prompt engineering is the practice of crafting effective inputs (prompts) to gui
 - **Enhances flexibility** in generating domain-specific responses.
 - **Gives developers control** over AI interactions by structuring precise prompts.
 
-### Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+### 2. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 **Vague Prompt:** Draw a picture of a person.
 
