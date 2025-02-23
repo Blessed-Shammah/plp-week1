@@ -25,6 +25,8 @@ Software engineering is a field of computer science that focuses on designing, d
 3. **Design** - Create software architecture and system blueprints.
 4. **Coding** - Implement the design using programming languages.
 5. **Testing** - Identify and fix defects before deployment.
+6. **Deployment** - Release the software product to the users.
+7. **Continous Maintenance** - Maintain the existing software product by continuous integration and deployment.
 
 ### Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
